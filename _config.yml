@@ -9,7 +9,7 @@ name: Stack Overflow Blog
 description: A destination for all things related to development at Stack Overflow
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/blog-logo.svg
+avatar: /stackblog/images/blog-logo.svg
 
 #
 # Flags below are optional
